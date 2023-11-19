@@ -3,7 +3,7 @@ hdv_erl
 
 An escript
 
-Following [1], this script uses Erlang's big integers to implement "Hyper Dimensional" bit vectors and answers the question "What's the Dollor of Mexico?" by searching for the nearest word to the product:
+Following [1], this script uses Erlang's big integers to implement "Hyper Dimensional" bit vectors and answers the question "What's the Dollar of Mexico?" by searching for the nearest word to the product:
 ```
 MEXICO*USA*USD
 ``` 
