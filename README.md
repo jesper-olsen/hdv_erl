@@ -9,6 +9,7 @@ MEXICO*USA*USD
 ``` 
 
 References:
+
 [1] "What We Mean When We Say 'What’s the Dollar of Mexico?': Prototypes and Mapping in Concept Space" by Pentti Kanerva, Quantum Informatics for Cognitive, Social, and Semantic Processes: Papers from the AAAI Fall Symposium (FS-10-08)
 
 Build
